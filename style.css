@@ -1,6 +1,10 @@
+
+
+
+
 .jumbotron {
   padding-top: 6rem;
-  background-color: #b6cff8;
+  background-color: #e2edff;
 }
 
 #projects {
@@ -10,6 +14,16 @@
 section {
   padding-top: 5rem;
 }
+
+.footer {
+  background-color: aqua;
+  padding: 10px;
+}
+
+/* .footer .copy {
+  text-align: center;
+  font-size: 15px;
+} */
 
 /* My Keyboard Section
 .keyboard-box {
